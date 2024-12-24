@@ -4,4 +4,11 @@ seaborn
 matplotlib
 tensorflow
 statsmodels
+joblib
+scikit-learn 
+flask
 -e .
+
+# .venv\Scripts\activate
+# py -m venv .venv
+# py -m pip install -r requirements.txt
